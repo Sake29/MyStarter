@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/helloworld-spring-boot-starter-autoconfiguration/helloworld-spring-boot-starter-autoconfiguration.iml" filepath="$PROJECT_DIR$/helloworld-spring-boot-starter-autoconfiguration/helloworld-spring-boot-starter-autoconfiguration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sake-spring-boot-starter/sake-spring-boot-starter.iml" filepath="$PROJECT_DIR$/sake-spring-boot-starter/sake-spring-boot-starter.iml" />
+    </modules>
+  </component>
+</project>
